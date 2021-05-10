@@ -1,0 +1,20 @@
+@media (max-width:600px) {
+
+    .hero_content h1 {
+        font-size: 40px !important;
+
+    }
+
+    .about_content h3 {
+        line-height: 43px !important;
+        font-size: 25px !important;
+    }
+
+    .title {
+        width: 100% !important;
+    }
+
+    .services_icon {
+        margin-left: 20px!important;
+    }
+}
